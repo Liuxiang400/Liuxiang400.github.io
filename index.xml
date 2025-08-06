@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blowfish</title><link>https://liuxiang400.github.io/</link><description>Recent content on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 MoonSoul</copyright><lastBuildDate>Thu, 31 Jul 2025 09:50:01 +0800</lastBuildDate><atom:link href="https://liuxiang400.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>First Blog-Construct your own blog</title><link>https://liuxiang400.github.io/posts/first-blog/</link><pubDate>Thu, 31 Jul 2025 09:50:01 +0800</pubDate><guid>https://liuxiang400.github.io/posts/first-blog/</guid><description>&lt;h3 class="relative group">The reasons of constructing your own blog
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blowfish</title><link>https://liuxiang400.github.io/</link><description>Recent content on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 MoonSoul</copyright><lastBuildDate>Wed, 06 Aug 2025 15:37:17 +0800</lastBuildDate><atom:link href="https://liuxiang400.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>The Blog of My Blog</title><link>https://liuxiang400.github.io/posts/the-blog-of-my-blog/</link><pubDate>Wed, 06 Aug 2025 15:37:17 +0800</pubDate><guid>https://liuxiang400.github.io/posts/the-blog-of-my-blog/</guid><description>&lt;p>This blog is about the details and difficulty that I have encountered during the construction of the blog.&lt;/p>
+&lt;h3 class="relative group">The Problem of Github Actions
+&lt;div id="the-problem-of-github-actions" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#the-problem-of-github-actions" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>Firstly, I follow the instructions on the web. And I also want to take a way to publish my blog which is graceful and convenient.
+But the github actions which I have tried failed many times.&lt;/p></description></item><item><title>First Blog-Construct your own blog</title><link>https://liuxiang400.github.io/posts/first-blog/</link><pubDate>Thu, 31 Jul 2025 09:50:01 +0800</pubDate><guid>https://liuxiang400.github.io/posts/first-blog/</guid><description>&lt;h3 class="relative group">The reasons of constructing your own blog
 &lt;div id="the-reasons-of-constructing-your-own-blog" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
